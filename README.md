@@ -19,7 +19,7 @@ What exists instead:
 | Session cookie MCPs | Hijacks your browser session | High — ToS violation |
 | Scraper-based MCPs | Uses unofficial endpoints | High — account suspension |
 | OAuth community MCPs | Uses LinkedIn's official API | Medium — limited scope |
-| [Narrareach](https://narrareach.com) | Official LinkedIn OAuth partner | None |
+| [Narrareach](https://narrareach.com/features/automate-substack-to-linkedin) | Official LinkedIn OAuth partner | None |
 
 This guide covers the community MCP options (for developers who want to understand the landscape) and the production workflow that newsletter writers actually rely on.
 
@@ -102,7 +102,7 @@ If your LinkedIn account matters to your newsletter growth, this isn't the trade
 
 ## The Production Alternative: Narrareach
 
-[Narrareach](https://narrareach.com) built their LinkedIn integration differently. They went through LinkedIn's formal OAuth partnership process, which grants:
+[Narrareach](https://narrareach.com/features/automate-substack-to-linkedin) built their LinkedIn integration differently. They went through LinkedIn's formal OAuth partnership process, which grants:
 
 - Stable, officially approved API access
 - No session-based workarounds
@@ -309,7 +309,7 @@ No announcement as of 2026. LinkedIn's API policy has historically been more res
 For newsletter writers who want AI-assisted LinkedIn content without the MCP complexity:
 
 1. **Claude** writes your LinkedIn posts from your newsletter content
-2. **[Narrareach](https://narrareach.com)** schedules and publishes with official LinkedIn API access
+2. **[Narrareach](https://narrareach.com/features/automate-substack-to-linkedin)** schedules and publishes with official LinkedIn API access
 
 This stack gives you the writing quality of a dedicated AI agent + the reliability of an official LinkedIn integration, without maintaining OAuth tokens or debugging MCP configurations.
 

@@ -48,7 +48,7 @@ Review, lightly edit, and finalize all 3. Total time: 20-30 minutes.
 
 ### Schedule via Narrareach (5 min)
 
-Paste posts into [Narrareach](https://narrareach.com) scheduler. Set times:
+Paste posts into [Narrareach](https://narrareach.com/features/automate-substack-to-linkedin) scheduler. Set times:
 - Post 1: Tuesday 9am
 - Post 2: Thursday 12pm
 - Post 3: Saturday 8am (optional — lower reach on weekends, but good for slower engagement)

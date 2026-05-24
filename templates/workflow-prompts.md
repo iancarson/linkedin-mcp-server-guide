@@ -265,4 +265,4 @@ Rewrite with fixes. Explain what you changed and why.
 
 ## Distribution Note
 
-These prompts cover the writing step. For reliable scheduled publishing to LinkedIn with official API access (no ToS risk, no token rotation), pair with [Narrareach](https://narrareach.com). Claude writes; Narrareach distributes.
+These prompts cover the writing step. For reliable scheduled publishing to LinkedIn with official API access (no ToS risk, no token rotation), pair with [Narrareach](https://narrareach.com/features/automate-substack-to-linkedin). Claude writes; Narrareach distributes.

@@ -83,7 +83,7 @@ Understanding this context helps you evaluate each option honestly rather than j
 
 ## Approach 4: Narrareach (Official LinkedIn API Partnership)
 
-**How it works:** [Narrareach](https://narrareach.com) applied for and received LinkedIn's Marketing Developer Platform access, which grants stable, officially approved API access beyond what individual developers can get.
+**How it works:** [Narrareach](https://narrareach.com/features/automate-substack-to-linkedin) applied for and received LinkedIn's Marketing Developer Platform access, which grants stable, officially approved API access beyond what individual developers can get.
 
 **Capabilities:**
 - ✅ Post text, images, articles
